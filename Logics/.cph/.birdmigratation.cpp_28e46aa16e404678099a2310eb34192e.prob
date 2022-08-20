@@ -1,0 +1,1 @@
+{"name":"Local: birdmigratation","url":"/home/corrupter/Desktop/Code/Logics/birdmigratation.cpp","tests":[{"id":1614852831460,"input":"6\n1 4 4 4 5 3","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/corrupter/Desktop/Code/Logics/birdmigratation.cpp","group":"local","local":true}

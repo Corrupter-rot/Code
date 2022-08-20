@@ -1,0 +1,1 @@
+{"name":"Local: insertion_sort","url":"/home/corrupter/Desktop/Code/Logics/insertion_sort.cpp","tests":[{"id":1614846896855,"input":"6\n1 4 4 4 5 3","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/corrupter/Desktop/Code/Logics/insertion_sort.cpp","group":"local","local":true}

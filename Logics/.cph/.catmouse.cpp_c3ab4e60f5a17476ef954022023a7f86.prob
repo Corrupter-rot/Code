@@ -1,0 +1,1 @@
+{"name":"Local: catmouse","url":"/home/corrupter/Desktop/Code/Logics/catmouse.cpp","tests":[{"id":1616687979871,"input":"1 2 3","output":"Cat B"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/corrupter/Desktop/Code/Logics/catmouse.cpp","group":"local","local":true}

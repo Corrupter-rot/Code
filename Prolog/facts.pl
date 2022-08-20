@@ -1,0 +1,10 @@
+likes('mary','chocolate').
+likes('mary','wine').
+likes('mary','burger').
+likes('john','mango').
+likes('john','burger').
+likes('john','flowers').
+likes('john','tea').
+likes('john','mango').
+likes('john','orange').
+likes('john','study').
